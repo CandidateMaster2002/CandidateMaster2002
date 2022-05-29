@@ -4,7 +4,6 @@
 ✔️ I am Harsh Agrawal, an engineering student at **IIT Dhanbad**.
 <br><br>
 ✔️ I am interested in development part and love to do competititve coding.
-<br><br>
 <!-- ✔️ Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ . -->
 
 ✔️ Resume : [Link](https://github.com/CandidateMaster2002/Resume/blob/main/harsh_resume-4may.pdf) .
