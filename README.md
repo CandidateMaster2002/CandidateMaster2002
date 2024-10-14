@@ -9,14 +9,6 @@
 ✔️ Resume : [Link](https://docs.google.com/document/d/18ZfiZObJ7d4jcFWPNpUyCT2xZ7ORb9DJ/edit) .
 <br>
 
-#### Let's Connect: 
- 
-<a href="https://www.linkedin.com/in/harsh-agrawal-b9513820a/">
-  <img align="left" alt="Harsh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
-<br>
-<a href="https://stars.github.com/nominate/">You love what you see? Nominate me for GitHub Star!</a>
 
 <hr>
  
