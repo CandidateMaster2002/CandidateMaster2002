@@ -1,7 +1,7 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
  
-✔️ I am Harsh Agrawal, an engineering student at **IIT Dhanbad**.
+✔️ I am Harsh Agrawal, graduated from **IIT Dhanbad** and working as Developer in BeeHyv.
 <br><br>
 ✔️ I am interested in development part and love to do competititve coding.
 <!-- ✔️ Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ . -->
