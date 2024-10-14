@@ -6,7 +6,7 @@
 ✔️ I am interested in development part and love to do competititve coding.
 <!-- ✔️ Curious to Know About me? https://tanuagrawal-portfolio.herokuapp.com/ . -->
 
-✔️ Resume : [Link](https://github.com/CandidateMaster2002/Resume/blob/main/harsh_resume-4may.pdf) .
+✔️ Resume : [Link](https://docs.google.com/document/d/18ZfiZObJ7d4jcFWPNpUyCT2xZ7ORb9DJ/edit) .
 <br>
 
 ####  Let's Connect: 
