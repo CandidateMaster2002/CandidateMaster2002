@@ -9,19 +9,14 @@
 ✔️ Resume : [Link](https://docs.google.com/document/d/18ZfiZObJ7d4jcFWPNpUyCT2xZ7ORb9DJ/edit) .
 <br>
 
-####  Let's Connect: 
+#### Let's Connect: 
  
-<!-- <a href="https://www.instagram.com/me_tanu_agrawal/">
-  <img align="left" alt="Tanu's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a><a href="https://twitter.com/me_tanu_agrawal">
-  <img align="left" alt="Tanu Agrawal | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /> -->
-</a><a href="https://www.linkedin.com/in/harsh-agrawal-b9513820a//">
-  <img align="left" alt="Harsh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/harsh-agrawal-b9513820a/">
+  <img align="left" alt="Harsh's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br>
 <br>
-<!--NOMINATION FOR STAR GIT LINK CODE-->
-<a href="https://stars.github.com/nominate/">You love what you see , Nominate me for GitHub Star </a>
+<a href="https://stars.github.com/nominate/">You love what you see? Nominate me for GitHub Star!</a>
 
 <hr>
  
